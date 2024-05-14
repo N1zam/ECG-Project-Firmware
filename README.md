@@ -5,9 +5,9 @@
 
 ## Changelog
 - fix serial data esp8266 to uno
-- fix SDCard in esp8266
+- fix SDCard program on esp8266
 - fix WebServer program on esp8266
-- fix program Oled Display (SSD1306 allocation failed issue)
+- fix program Oled Display on uno (SSD1306 allocation failed issue)
 
 ## Uploader Aplication
 <p>Use the Uploader App if you want to upload firmware files on atmega328p (uno) and esp8266</p>
