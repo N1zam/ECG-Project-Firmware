@@ -1,5 +1,7 @@
 # ECG PROJECT Private Repository
-## last version : 2.2.2 (SW Version)
+## last version : 
+- V2.2.2 (SW Version)
+- V2.2.1 (HW Version)
 
 ## Changelog
 - fix serial data esp8266 to uno
