@@ -8,5 +8,5 @@
 - fix program Oled Display (SSD1306 allocation failed issue)
 
 ## Program Uploader Aplication
-- Arduino Uno : <a href=https://drive.google.com/drive/folders/1Jd0Euq1-ti-_1vtQXpMNdb4uExqVydhc?usp=sharing target='_blank'>Download</a>
+- Arduino Uno : <a href="https://drive.google.com/drive/folders/1Jd0Euq1-ti-_1vtQXpMNdb4uExqVydhc?usp=sharing" target="_blank">Download</a>
 - esp8266     : for recovery menu/flash website (elegant ota)
