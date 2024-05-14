@@ -11,4 +11,4 @@
 
 ## Program Uploader Aplication
 - Arduino Uno : <a href="https://drive.google.com/drive/folders/1Jd0Euq1-ti-_1vtQXpMNdb4uExqVydhc?usp=sharing" target="_blank">Download</a>
-- esp8266     : for recovery menu/flash website (elegant ota)
+- Esp8266     : Flashing with OTA Library (elegant ota)
