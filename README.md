@@ -1,5 +1,5 @@
-# ECG PROJECT Private Repository
-## last version : 
+# ECG PROJECT FIRMWARE
+## Last Version : 
 - V2.2.2 (SW Version)
 - V2.2.1 (HW Version)
 
