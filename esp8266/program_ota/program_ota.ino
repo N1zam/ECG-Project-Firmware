@@ -1,5 +1,5 @@
 /* Program Uploader ESP8266 OTA
- * 1. silahkan upload library yang ada di folder lib
+ * 1. silahkan upload library yang ada di folder program_ota/lib
  * 2. silahkan ganti ssid dan password sesuai dengan router/hotspot
  * 3. buka serial monitor dengan baudrate 9600 dan akses link ip address di web browser (dan pastikan koneksi wifi di perangkat web browsernya sama di esp8266)
  *
