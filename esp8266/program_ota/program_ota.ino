@@ -33,7 +33,7 @@ void setup(void) {
   
   ipAddress = WiFi.localIP().toString().c_str();
   Serial.println();
-  Serial.print(F("Connected to"));
+  Serial.print(F("Connected to "));
   Serial.println(ssid);
   Serial.print(F("IP Address : "));
   Serial.println(ipAddress);
