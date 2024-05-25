@@ -1,9 +1,10 @@
 /* Program Uploader ESP8266 OTA
- * 1. silahkan upload library yang ada di folder program_ota/lib
- * 2. silahkan ganti ssid dan password sesuai dengan router/hotspot
- * 3. buka serial monitor dengan baudrate 9600 dan akses link ip address di web browser (dan pastikan koneksi wifi di perangkat web browsernya sama di esp8266)
+ * 1. please upload the library in program_ota/lib
+ * 2. please change the ssid and password according to the router/hotspot
+ * 3. open the serial monitor with baudrate 9600 and access the ip address link in the web browser 
+    (and make sure the wifi connection in the web browser device is the same in esp8266)
  *
- * ********************************** Terima kasih telah menggunakan program Project ECG V2.0 **********************************
+ * ********************************** Thank you for using Project ECG V2.0 program. **********************************
  * creator : Nizam Albar
  */
 
