@@ -32,10 +32,11 @@ void setup(void) {
   }
   
   ipAddress = WiFi.localIP().toString().c_str();
-  Serial.println(F("Connected to"));
-  Serial.print(ssid);
-  Serial.println(F("IP Address : "));
-  Serial.print(ipAddress);
+  Serial.println();
+  Serial.print(F("Connected to"));
+  Serial.println(ssid);
+  Serial.print(F("IP Address : "));
+  Serial.println(ipAddress);
   Serial.println("http://"+String(ipAddress)+"/");
 
   server.on("/", HTTP_GET, [](AsyncWebServerRequest *request) {
