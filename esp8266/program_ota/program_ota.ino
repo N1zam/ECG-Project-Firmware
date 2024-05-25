@@ -12,8 +12,8 @@
 #include <AsyncElegantOTA.h>
 #include <ESPAsyncWebServer.h>
 
-const char* ssid = "........";
-const char* password = "........";
+const char* ssid = "@Wifi.com 23";
+const char* password = "Hostpot_ahul7";
 
 AsyncWebServer server(80);
 String ipAddress;
