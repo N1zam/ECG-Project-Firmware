@@ -2,6 +2,9 @@
  * 1. silahkan upload library yang ada di folder lib
  * 2. silahkan ganti ssid dan password sesuai dengan router/hotspot
  * 3. buka serial monitor dengan baudrate 9600 dan akses link ip address di web browser (dan pastikan koneksi wifi di perangkat web browsernya sama di esp8266)
+ *
+ * ********************************** Terima kasih telah menggunakan program Project ECG V2.0 **********************************
+ * creator : Nizam Albar
  */
 
 #include <ESP8266WiFi.h>
