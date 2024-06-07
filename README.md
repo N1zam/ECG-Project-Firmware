@@ -1,7 +1,7 @@
 # ECG PROJECT FIRMWARE
 ## Last Version
-- V2.2.2 (SW Version)
-- V2.2.1 (HW Version)
+- V2.2.3 (SW Version)
+- V2.2.2 (HW Version)
 
 ## Changelog
 - fix read sensor program on uno
