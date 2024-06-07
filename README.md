@@ -4,10 +4,9 @@
 - V2.2.1 (HW Version)
 
 ## Changelog
-- fix serial data esp8266 to uno
-- fix SDCard program on esp8266
-- fix WebServer program on esp8266
-- fix program Oled Display on uno (SSD1306 allocation failed issue)
+- fix read sensor program on uno
+- fix WebServer wificonfig.h and helppage.h on esp8266
+- modified programWiFi.hpp on esp8266
 
 ## Uploader Aplication
 <p>Use the Uploader App if you want to upload firmware files on atmega328p (uno) and esp8266</p>
