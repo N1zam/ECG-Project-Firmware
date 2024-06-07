@@ -7,6 +7,7 @@
 - fix read sensor program on uno
 - fix WebServer wificonfig.h and helppage.h on esp8266
 - modified programWiFi.hpp on esp8266
+- add Configurate Access Point page
 
 ## Uploader Aplication
 <p>Use the Uploader App if you want to upload firmware files on atmega328p (uno) and esp8266</p>
