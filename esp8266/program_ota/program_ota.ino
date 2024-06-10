@@ -1,6 +1,6 @@
 /* Program Uploader ESP8266 OTA
  * 1. please upload the library first in the program_ota/lib folder
- * 2. please change the ssid and password according to the router/hotspot
+ * 2. please insert the ssid and password variables according to the router/hotspot
  * 3. open the serial monitor with baudrate 9600 and access the ip address link in the web browser 
     (and make sure the wifi connection in the web browser device is the same in esp8266)
  *
