@@ -7,6 +7,7 @@
 - fix includes files (esp8266)
 - add LittleFS in program (esp8266)
 - update WebServer (add html & css styles on littleFS) (esp8266)
+- fix WebServer (error page /save-config-ap) (esp8266)
 
 ## Uploader Aplication
 <p>Use the Uploader App if you want to upload firmware files on atmega328p (uno) and esp8266</p>
@@ -24,7 +25,7 @@
 
 
 - set OTA Mode : LittleFS/SPIFFS
-- select file ecg-v2-2.2.4-esp8266-filesystem.bin
+- select file ecg-v2-2.2.4-esp8266-littlefs.bin
 - auto reboot and click back (or reopen /update)
 - set OTA Mode : Firmware
 - select file ecg-v2-2.2.4-esp8266-firmware.bin
