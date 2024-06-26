@@ -20,7 +20,7 @@
 - open /update on browser
 
 <div align="center">
-    <img align="center" src="img/img1.jpg" width="50%">
+    <img align="center" src="img/img1.jpg" width="70%">
 </div>
 
 
