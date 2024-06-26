@@ -21,7 +21,7 @@
 <div align="center">
     <img align="center" src="img/img1.jpg" width="50%">
 </div>
-
+<br />
 - set OTA Mode : LittleFS/SPIFFS
 - select file ecg-v2-2.2.4-esp8266-filesystem.bin
 - auto reboot and click back (or reopen /update)
