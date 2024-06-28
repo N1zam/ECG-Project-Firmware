@@ -6,6 +6,7 @@
 ## Changelog
 - fix includes files (esp8266)
 - add LittleFS in program (esp8266)
+- add page reset system (esp8266)
 - update WebServer (add html & css styles on littleFS) (esp8266)
 - fix WebServer (error page /save-config-ap) (esp8266)
 
