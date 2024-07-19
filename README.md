@@ -25,10 +25,10 @@
 
 
 - set OTA Mode : LittleFS/SPIFFS
-- select file ecg-v2-2.2.4-esp8266-littlefs.bin
+- select file ecg-v2-2.2.5-esp8266-littlefs.bin
 - auto reboot and click back (or reopen /update)
 - set OTA Mode : Firmware
-- select file ecg-v2-2.2.4-esp8266-firmware.bin
+- select file ecg-v2-2.2.5-esp8266-firmware.bin
 - auto reboot and finish
 
 <h2 align=center><a href="https://github.com/N1zam/ECG-Project-Firmware/archive/refs/tags/2.2.2.5.zip">Download Firmware Here</a></h2>
