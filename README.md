@@ -7,6 +7,7 @@
 - Optimized client buffer sizes for API communication (ESP8266).
 - Modified change-url-api.html page (ESP8266).
 - Fixed SDCard program and optimized ArduinoJson library usage.
+- Upgrade ESP8266WebServer to AsyncWebServer (WebUI version 1.8)
 
 
 ## Uploader Aplication
